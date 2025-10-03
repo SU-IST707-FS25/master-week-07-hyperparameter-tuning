@@ -8,6 +8,7 @@
 - `assignment.ipynb` - Weekly assignment
 - `data/` - Dataset files for this week
 - `assets/` - Supporting images and resources
+- `errata/` - Updated lecture materials
 - `lab/` - In-class lab exercises
 - `questions.md` - Discussion questions (if applicable)
 
